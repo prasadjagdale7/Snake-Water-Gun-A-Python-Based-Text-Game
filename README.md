@@ -1,4 +1,4 @@
-# Snake-Water-Gun-A-Python-Based-Text-Game                                                                                                               
+# Snake-Water-Gun:A Python Based TextGame                                                                                                               
 Created a basic text-based game using Python, inspired by the classic "Snake-Water-Gun" game.
 Used random choice for the computer's move to make the game unpredictable.
 Handled user input by allowing players to choose "Snake," "Water," or "Gun."
